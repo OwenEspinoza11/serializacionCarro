@@ -1,0 +1,15 @@
+C:\Users\JADPA-20\source\repos\RegistroCarrosSeXML\bin\Debug\net6.0\RegistroCarrosSeXML.exe
+C:\Users\JADPA-20\source\repos\RegistroCarrosSeXML\bin\Debug\net6.0\RegistroCarrosSeXML.deps.json
+C:\Users\JADPA-20\source\repos\RegistroCarrosSeXML\bin\Debug\net6.0\RegistroCarrosSeXML.runtimeconfig.json
+C:\Users\JADPA-20\source\repos\RegistroCarrosSeXML\bin\Debug\net6.0\RegistroCarrosSeXML.dll
+C:\Users\JADPA-20\source\repos\RegistroCarrosSeXML\bin\Debug\net6.0\RegistroCarrosSeXML.pdb
+C:\Users\JADPA-20\source\repos\RegistroCarrosSeXML\obj\Debug\net6.0\RegistroCarrosSeXML.csproj.AssemblyReference.cache
+C:\Users\JADPA-20\source\repos\RegistroCarrosSeXML\obj\Debug\net6.0\RegistroCarrosSeXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-20\source\repos\RegistroCarrosSeXML\obj\Debug\net6.0\RegistroCarrosSeXML.AssemblyInfoInputs.cache
+C:\Users\JADPA-20\source\repos\RegistroCarrosSeXML\obj\Debug\net6.0\RegistroCarrosSeXML.AssemblyInfo.cs
+C:\Users\JADPA-20\source\repos\RegistroCarrosSeXML\obj\Debug\net6.0\RegistroCarrosSeXML.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-20\source\repos\RegistroCarrosSeXML\obj\Debug\net6.0\RegistroCarrosSeXML.dll
+C:\Users\JADPA-20\source\repos\RegistroCarrosSeXML\obj\Debug\net6.0\refint\RegistroCarrosSeXML.dll
+C:\Users\JADPA-20\source\repos\RegistroCarrosSeXML\obj\Debug\net6.0\RegistroCarrosSeXML.pdb
+C:\Users\JADPA-20\source\repos\RegistroCarrosSeXML\obj\Debug\net6.0\RegistroCarrosSeXML.genruntimeconfig.cache
+C:\Users\JADPA-20\source\repos\RegistroCarrosSeXML\obj\Debug\net6.0\ref\RegistroCarrosSeXML.dll
